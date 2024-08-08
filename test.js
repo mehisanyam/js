@@ -1,4 +1,4 @@
-console.log("name")
+
 const account=1234556
 var id=235
 let gk='wq'
